@@ -39,6 +39,3 @@ ENV/
 .pytest_cache/
 .coverage
 htmlcov/
-
-# Project specific
-hackathon2/
